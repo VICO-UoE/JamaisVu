@@ -1,0 +1,11 @@
+NOTE: 'DINO_SD_from_scratch'
+DENSE_OBJ: 0
+PAIR_AUGMENT: false
+FEAT_MAP_DROPOUT: 0
+PAIR_AUGMENT: 0
+TEST_SAMPLE: 0
+EPOCH: 2
+SCHEDULER: "one_cycle"
+SOFT_EVAL: true
+COMPUTE_GEOAWARE_METRICS: true
+# LOAD: "./results_ap10k/pretrained_ckpt/last.PTH"
